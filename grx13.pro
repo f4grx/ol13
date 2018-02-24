@@ -1,4 +1,4 @@
-update=sam. 24 févr. 2018 15:34:43 CET
+update=sam. 24 févr. 2018 15:39:57 CET
 version=1
 last_client=kicad
 [general]
@@ -10,19 +10,6 @@ version=1
 NetIExt=net
 [cvpcb/libraries]
 EquName1=devcms
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-RptD_X=0
-RptD_Y=100
-RptLab=1
-LabSize=60
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -52,3 +39,13 @@ LibName2=f4grx_cpu
 LibName3=f4grx_passive
 LibName4=f4grx_pow
 LibName5=f4grx_rf
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=.
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
